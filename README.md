@@ -1,6 +1,6 @@
 # NUMERICAL-METHODS-LAB-EXAM-PREP
 Matlab Files that turn us into pretentious autistic wannabe scientists.
-Below is a sample code.[Check the repo](https://github.com/mayank-pq2q4/MATLAB-LAB-EXAM-PREP "repo") for more of these.
+Below is a sample code. [Check the repo](https://github.com/mayank-pq2q4/MATLAB-LAB-EXAM-PREP "repo") for more of these.
 ```
 %Gaussian Elimination Method:
 format long
